@@ -1,2 +1,4 @@
 # Pharmaceutical-Sales-Data-Analysis
-A Power BI project to analyze pharmaceutical sales data
+In this project, we will be using Power BI to analyze pharmaceutical sales data. The dataset used for this project has been sourced from Kaggle : https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
+
+
